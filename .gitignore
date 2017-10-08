@@ -1,3 +1,4 @@
 rtsupport/node_modules/
 .idea
 .vscode
+rtsupport/bundle.js
