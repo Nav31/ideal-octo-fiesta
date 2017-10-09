@@ -8,7 +8,6 @@ class UserList extends Component {
                 {this.props.users.map(user => <User
                     key={user.id}
                     user={user}
-                    {...this.props}
                 />)}
             </ul>
         )
